@@ -16,5 +16,5 @@
 二维码链接格式为：`https://xxx.xx/car/index?tel=13558810XXX,18380380XXX`  这个格式生成后贴再挡风玻璃即可。
 
 别人扫码进入链接显示如下图：
-![打开首屏](https://github.com/MisterChangRay/car-notify/blob/main/example1.jpg)=500x300
-![点击拨号](https://github.com/MisterChangRay/car-notify/blob/main/example2.jpg)=500x300
+![打开首屏](https://github.com/MisterChangRay/car-notify/blob/main/example1.jpg=500x300)
+![点击拨号](https://github.com/MisterChangRay/car-notify/blob/main/example2.jpg=500x300)
