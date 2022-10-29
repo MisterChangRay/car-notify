@@ -18,6 +18,6 @@
 
 别人扫码进入链接显示如下图：
 
-<img alt="二维码贴图" src="https://github.com/MisterChangRay/car-notify/blob/main/example0.png" width="400" height="790">
+<img alt="二维码贴图" src="https://github.com/MisterChangRay/car-notify/blob/main/example0.png" width="800" height="400">
 <img alt="打开首屏" src="https://github.com/MisterChangRay/car-notify/blob/main/example1.jpg" width="400" height="790">
 <img alt="点击拨号" src="https://github.com/MisterChangRay/car-notify/blob/main/example2.jpg" width="400" height="790">
