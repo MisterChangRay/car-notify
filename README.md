@@ -16,9 +16,12 @@
 
 二维码链接格式为：`https://xxx.xx?tel=13558810XXX,18380380XXX`  这个格式生成后贴再挡风玻璃即可。
 
-别人扫码进入链接显示如下图：
+生成二维码并通过静电贴贴在挡风玻璃上：
 
 <img alt="二维码贴图" src="https://github.com/MisterChangRay/car-notify/blob/main/example0.png" width="800" height="400">
+
+别人扫码进入链接显示如下图：
+
 <img alt="打开首屏" src="https://github.com/MisterChangRay/car-notify/blob/main/example1.jpg" width="400" height="790">
 <img alt="点击拨号" src="https://github.com/MisterChangRay/car-notify/blob/main/example2.jpg" width="400" height="790">
 
