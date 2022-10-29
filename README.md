@@ -1,5 +1,5 @@
 # car-notify
-汽车 挪车h5
+汽车 挪车通知H5
 
 这里是一个很简单的需求，有时候停车别人叫你来挪车。于是我搞了一张纸弄在挡风玻璃前面。但是那张纸经常到挡风玻璃
 的缝隙里面， 导致真正需要挪车的时候找不到电话。
@@ -21,3 +21,6 @@
 <img alt="二维码贴图" src="https://github.com/MisterChangRay/car-notify/blob/main/example0.png" width="800" height="400">
 <img alt="打开首屏" src="https://github.com/MisterChangRay/car-notify/blob/main/example1.jpg" width="400" height="790">
 <img alt="点击拨号" src="https://github.com/MisterChangRay/car-notify/blob/main/example2.jpg" width="400" height="790">
+
+
+由于我在二维码后面贴上了NFC,所以也支持NFC。现在就比较nice了。
